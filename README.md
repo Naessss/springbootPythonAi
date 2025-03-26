@@ -17,3 +17,5 @@ FastAPI 애플리케이션은 비동기 처리를 기본으로 하며, Uvicorn�
 
 ### FastAPI 서버 실행
 main.py 실행 Terminal에서 uvicorn main:app --reload -- port 8001
+
+![image](https://github.com/user-attachments/assets/79d6c960-0367-44c4-a1e6-eae65e52b903)
